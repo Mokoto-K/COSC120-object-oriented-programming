@@ -12,3 +12,4 @@ Second Semester, Object Oriented Programming, I will use this repository as a wa
 - Tutorial 2 - https://github.com/Mokoto-K/COSC120-tutorial-2
 - Tutorial 3 - https://github.com/Mokoto-K/COSC120-tutorial-3
 - Tutorial 4 - https://github.com/Mokoto-K/COSC120-tutorial-4
+- Tutorial 5 - https://github.com/Mokoto-K/COSC120-tutorial-5
